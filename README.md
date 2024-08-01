@@ -167,7 +167,7 @@ Container(
     )
  ```
 
-   ### Login Screen 5
+   ### Login Screen 5.
 
  ![Screenshot on Android](./screenshots/login_screen_5.jpeg)
 
