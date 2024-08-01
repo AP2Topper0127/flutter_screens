@@ -1,4 +1,4 @@
-# Flutter Screens.
+# Flutter Screens
 
 A collection of Login Screens, Buttons, Loaders and Widgets with attractive UIs, built with Flutter, ready to be used in your applications.
 
@@ -167,7 +167,7 @@ Container(
     )
  ```
 
-   ### Login Screen 5
+   ### Login Screen 5.
 
  ![Screenshot on Android](./screenshots/login_screen_5.jpeg)
 
