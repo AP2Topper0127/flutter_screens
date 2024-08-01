@@ -12,6 +12,7 @@ A widget that can be used to present two different views that can be toggled usi
 
 ![Screenshots on iOS](./screenshots/slide_list_view.gif)
 
+
 ## Rating
 
 ![Screenshots on iOS](./screenshots/rating.gif)
