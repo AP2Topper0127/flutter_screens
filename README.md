@@ -37,6 +37,7 @@ FlipLoader(
   animationType: "full_flip"),
 ```
 _Example #2_
+
 ```
 FlipLoader(
   loaderBackground: Colors.blueAccent,
